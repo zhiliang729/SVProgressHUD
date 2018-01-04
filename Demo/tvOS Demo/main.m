@@ -1,10 +1,12 @@
 //
 //  main.m
-//  SVProgressHUD, https://github.com/SVProgressHUD/SVProgressHUD
+//  tvOS Demo
 //
-//  Copyright (c) 2011-2017 Sam Vermette. All rights reserved.
+//  Created by David Olesch on 11/2/15.
+//
 //
 
+#import <UIKit/UIKit.h>
 #import "AppDelegate.h"
 
 int main(int argc, char * argv[]) {
